@@ -1,0 +1,6 @@
+*.js
+*.txt
+*ns.md
+.DS_Store
+.vscode/
+classes-in-python.py
